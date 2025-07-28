@@ -13,3 +13,5 @@ spec:
     ports:
     - containerPort: 80
 ```
+
+<img width="1492" height="813" alt="Screenshot 2025-07-28 at 22 21 19" src="https://github.com/user-attachments/assets/8505577c-e38c-4fe2-a9a9-9e53c7163460" />
